@@ -10,6 +10,9 @@ textarea {
 }
 
 #output {
+    margin: 0;
+    font-family: 'Kalam', cursive;
+    color: #333333;
     border: 3px solid black;
     height: 10vh;
     width: 80%;
@@ -20,32 +23,41 @@ textarea {
     background-color: rgba;
 }
 h1{
+    margin: 0;
+    font-family: 'Kalam', cursive;
+    color: #333333;
     text-align: center;
     display: block;
-    background-color:#FBBF24;
+    background-color:#F2C94C;
     height: 80px;
-    padding-top: 40px;
+    padding-top: 100px;
     font-size: 50px;
+    font margin-top: 40;
+    font margin-bottom : 40;
+    margin-bottom: 50px ;
 }
 h2{
+    margin: 0;
+    font-family: 'Kalam', cursive;
+    color: #333333;
     text-align: center;
     margin-top: 3rem;
     display: block;
-    background-color:#FBBF24;
-    height: 90px;
+    background-color:#F2C94C;
+    height: 150px;
     padding-top: 20px;
     font-size: 20px;
 }
 small{
     text-align: center;
     display: block;
-    background-color: #f5ab2a;
+    background-color: #F2C94C;
     font-size: large;
 }
-body{
-    background-image: url(bg.jpg);
-}
+
+
 button{
+    
     margin-left: 50%;
 }
 .output{
